@@ -21,7 +21,7 @@ async def on_message(message):
 
     msg_parts = msg.split(' ')
 
-    if msg_parts[0] == '!varoun':
+    if msg_parts[0] == '!test':
         # number validation
         try:
             token_id = int(msg_parts[1])
