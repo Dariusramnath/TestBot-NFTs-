@@ -36,4 +36,4 @@ async def on_message(message):
 
 
 keep_alive()
-bot.run(os.getenv('TOKEN'))
+bot.run(os('OTYyMDMzMzkzMzk3MjkzMDU3.YlBpag.Tw9VEOlLkv7N504Y0TCN9uoZmzg'))
